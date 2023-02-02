@@ -1,4 +1,4 @@
-# Hola/Hi I'm @ChuchoLaRata
+# Hola/Hi I'm Erick Garcia
 
 Currently, I'm learning about software engineering, ML for energy management and lately I'm trying to migrate to Linux.
 
